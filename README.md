@@ -30,7 +30,9 @@ Hub networks are usually better suited for smaller networks because larger ones 
 
 ## Proposed Solution / Architecture Diagram
 
-![alt text](What-is-a-Computer-Network-Hub-Diagram.jpg)
+
+<img width="1012" height="620" alt="image" src="https://github.com/user-attachments/assets/6dbd1171-0400-45c5-b2de-ad6d8a2262f2" />
+
 
 
 ## Use Cases
@@ -62,7 +64,9 @@ Hub networks are usually better suited for smaller networks because larger ones 
 How they compare to switches
 Switches or routers can mitigate network performance problems by representing each port as a separate collision domain. 
 
-![alt text](Computer-and-networks-10Base-T-star-network-topology.png)
+
+<img width="1006" height="761" alt="image" src="https://github.com/user-attachments/assets/48cc7739-16d7-4101-9315-3321bb67e8b7" />
+
 
 ## Dependencies
 
